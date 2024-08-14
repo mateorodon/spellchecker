@@ -1,0 +1,11 @@
+
+Ã
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Éœğ'8ØâÙí”2J$889db4e2-9495-494c-88bc-b9d62875e149
+´
+java:S1130"qRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from constructor's body.(Ôë’¹8Ößåñ”2J$b532875e-c647-4aef-9fa3-70a5e46477cb
+l
+java:S1172")Remove this unused method parameter "ts".(Ôë’¹8ÜâÙí”2J$01fbecb7-2f43-4b09-b685-56589561d7d8
+H
+java:S1168""+Return an empty collection instead of null.(¥¹ï8Ô÷æñ”2
+p
+java:S1068"(Remove this unused "root" private field.(ÿ¡ÎÃøÿÿÿÿ8ââÙí”2J$18f73b6a-fbe2-4263-91f3-1fb80d3d4be3

@@ -1,0 +1,10 @@
+
+r	java:S106="+Replace this use of System.out by a logger.(ÊôÍíşÿÿÿÿ8ªşãñ”2J$960b6029-5af7-4672-8946-36f59cd22ea3
+š
+java:S3776X"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(Š¦–Âüÿÿÿÿ8­şãñ”2J$5df702a3-1532-4caa-8707-3e49ae4d6c97
+m	java:S106b"+Replace this use of System.out by a logger.(Ò¢çØ8°şãñ”2J$d8c4495d-9ac7-4b5d-ac7f-b9aab5a00727
+€
+java:S1117h"8Rename "corr" which hides the field declared at line 29.(ƒŠÑøÿÿÿÿ8²şãñ”2J$17ddc43a-5de2-4263-afd0-56ee83166c0c
+r	java:S106i"+Replace this use of System.out by a logger.(î·¥´ûÿÿÿÿ8²şãñ”2J$30e331b7-f98f-4cb2-873d-400124d2c75e
+l	java:S106s"+Replace this use of System.out by a logger.(Äã£K8²şãñ”2J$63c74c20-69b5-4093-b67a-ad274d09b1ca
+r	java:S106~"+Replace this use of System.out by a logger.(ÊôÍíşÿÿÿÿ8´şãñ”2J$baa9f944-64b7-409d-917f-a4f21416b412
