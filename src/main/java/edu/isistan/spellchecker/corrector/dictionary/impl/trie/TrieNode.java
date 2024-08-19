@@ -1,4 +1,4 @@
-package edu.isistan.spellchecker.corrector.dictionary.trie;
+package edu.isistan.spellchecker.corrector.dictionary.impl.trie;
 
 import java.util.HashMap;
 

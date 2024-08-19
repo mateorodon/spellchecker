@@ -1,5 +1,6 @@
-package edu.isistan.spellchecker.corrector.dictionary;
+package edu.isistan.spellchecker.corrector.dictionary.impl;
 
+import edu.isistan.spellchecker.corrector.dictionary.Dictionary;
 import edu.isistan.spellchecker.tokenizer.TokenScanner;
 
 import java.io.IOException;

@@ -18,7 +18,7 @@ import edu.isistan.spellchecker.corrector.dictionary.Dictionary;
  */
 public class SwapCorrector extends Corrector {
 
-	Dictionary dictionary;
+	private final Dictionary dictionary;
 
 	/**
 	 * Construcye el SwapCorrector usando un Dictionary.
@@ -63,7 +63,6 @@ public class SwapCorrector extends Corrector {
 		return corrections;
 	}
 
-	// Método auxiliar para intercambiar dos letras adyacentes
 	private String swapAdjacent(String word, int index) {
 		char[] chars = word.toCharArray();
 		char temp = chars[index];

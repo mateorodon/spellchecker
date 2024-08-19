@@ -3,7 +3,8 @@ package edu.isistan.spellchecker.corrector.dictionary;
 import java.io.*;
 import java.util.Set;
 
-import edu.isistan.spellchecker.corrector.dictionary.trie.TrieDictionary;
+import edu.isistan.spellchecker.corrector.dictionary.impl.HashSetDictionary;
+import edu.isistan.spellchecker.corrector.dictionary.impl.trie.TrieDictionary;
 import edu.isistan.spellchecker.tokenizer.TokenScanner;
 
 /**
